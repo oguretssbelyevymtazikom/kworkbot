@@ -1,1 +1,1 @@
-# kworkbot
+# kwork_notifier
